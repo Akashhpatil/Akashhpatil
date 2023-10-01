@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
 <h3 align="center">Building Foundations in Software Engineering | A Passionate Front-End Developer</h3>
 
+- 🌱 I’m currently learning **Python, Front-End Development, SQL, Data Visualization, React**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akashhpatil](https://github.com/Akashhpatil)
 
 - 📫 How to reach me **akash.patilworks@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aQcn--vbi4K51HHeELhlw-6qx1tZ4HDY/view?usp=sharing](https://drive.google.com/file/d/1aQcn--vbi4K51HHeELhlw-6qx1tZ4HDY/view?usp=sharing)
 
 - ⚡ Fun fact **This enthusiastic fresher is set to kickstart their journey in the world of software engineering. With a hunger for learning and a passion for problem-solving, they're poised to dive headfirst into the exciting realm of coding and development!**
 
