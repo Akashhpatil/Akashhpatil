@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Patil</h1>
-<h3 align="center">Building Foundations in Software Engineering | A Passionate Front-End Developer</h3>
+<h3 align="center">Building Foundations in Software Engineering | A Passionate SQL Developer</h3>
 
 - 🌱 I’m currently learning **Python, Front-End Development, SQL, Data Visualization, React**
 
