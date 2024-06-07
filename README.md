@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akash.patilworks@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_jDS5sAByCEaYXmOH2rEO4omoUbHiR3v/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1_jDS5sAByCEaYXmOH2rEO4omoUbHiR3v/view?usp=sharing
 
 - ⚡ Fun fact **This enthusiastic fresher is set to kickstart their journey in the world of software engineering. With a hunger for learning and a passion for problem-solving, they're poised to dive headfirst into the exciting realm of coding and development!**
 
